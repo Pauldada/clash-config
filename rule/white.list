@@ -6,3 +6,5 @@ DOMAIN,tracker.m-team.cc
 DOMAIN,tracker.m-team.io
 DOMAIN,tra1.m-team.cc
 DOMAIN,tra1.m-team.io
+DOMAIN,steamcdn-a.akamaihd.net,DIRECT
+DOMAIN-SUFFIX,steamserver.net,DIRECT
