@@ -47,3 +47,11 @@ DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,test.steampowered.com
 DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN-SUFFIX,rmbgame.net
+
+DOMAIN-SUFFIX,datarouter.ol.epicgames.com
+DOMAIN-SUFFIX,api.epicgames.dev
+DOMAIN-SUFFIX,tracking.epicgames.com
+DOMAIN-SUFFIX,connect.epicgames.dev
+DOMAIN-SUFFIX,connect.ol.epicgames.com
+DOMAIN-SUFFIX,cdn1.epicgames.com
+DOMAIN-SUFFIX,datarouter.ol.epicgames.com
