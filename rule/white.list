@@ -43,3 +43,7 @@ DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,test.steampowered.com
+DOMAIN-SUFFIX,api.steampowered.com
+DOMAIN-SUFFIX,rmbgame.net
